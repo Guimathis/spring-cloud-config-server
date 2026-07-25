@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Guimathis/spring-cloud-config-server
+          uri: https://github.com/Guimathis/spring-cloud-configs
           search-paths: 'greeting-service*'
           # if the repository is private:
          # username:
